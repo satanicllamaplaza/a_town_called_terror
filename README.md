@@ -47,12 +47,10 @@ There is Future Potential For expansions like:
 * Monsters
 * Man (Murderers)
 
-# [Fighter Cards](./fighter_cards.md)
+### [Fighter Cards](./fighter_cards.md)
 
-# [Item Cards](./item_cards.md)
+### [Item Cards](./item_cards.md)
 
-# [Event Cards](./event_cards.md)
+### [Event Cards](./event_cards.md)
 
-# [Curse Cards](./curse_cards.md)
-
-
+### [Curse Cards](./curse_cards.md)
