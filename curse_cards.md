@@ -19,6 +19,7 @@ Key:
 |(Harvest Fear)                   |4         |_                                                                                            |
 |(Claustrophobia)                 |3         |_                                                                                            |
 |(Sensory Deprivation)            |1         |_                                                                                            |
+|(Corrupt)                        |1         |_**Equal to the number of alter cards you control**                                          |
 
 **Revive Creatures**
 
@@ -27,11 +28,14 @@ Key:
 |(Midnight Recovery)              |4         |_                                                                                            |
 |(Revive the Fallen)              |2         |_                                                                                            |
 |(Deathly Ride)                   |4         |_                                                                                            |
+|(Recover)                        |3         |_                                                                                            |
+|(Dutiful Return)                 |4         |_                                                                                            |
 
-**Exile Creatures**
+**Exile Cards**
 
 |Card Name                        |Alter Cost|Effect                                                                                       |
 |:-------------------------------:|:--------:|:-------------------------------------------------------------------------------------------:|
 |(Eaten Alive)                    |1         |_                                                                                            |
+|(Pick the Brain)                 |3         |_                                                                                            |
 
 

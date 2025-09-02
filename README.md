@@ -13,15 +13,11 @@ players will all draw from the same stack of cards. This will help game play beg
 and reduce the knowlege and skill required to have fun. This could be a great introductory game
 for new magic players or a nice change of pace for veterans.
 
-#### Notes
-The flag ship Version of A Town Called Terror is a card collection called Haunted Hell Ride.
-There is Future Potential For expansions like:
-* Haunted Hell Ride (classic haunted hayride theme)
-* Field of Screems (classic sports and jock tropes)
-* Ouija's Mansion (classic haunted mansion)
-* Carn-Evil (carnival themes, coaster events and items from the fair grounds)
+#### Concepts
 
 [Skill Tree Concept](./skill_tree.md)
+
+[Expansion Concept](./expansion_concept.md)
 
 ## Rules:
 * Shuffle deck well and deal each player 10 cards.

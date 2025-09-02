@@ -13,16 +13,18 @@ Key:
 |Hockey Mask                      |          |Intimidates Man and lowers an oponents man's defence by -1                                   |
 |Ghoul Mask                       |          |Intimidates Haunts and lowers an oponents haunts's defence by -1                             |
 
-**Gun cards**: Gives equiped creature buffs against certian creature types
+**Weapons cards**:
 |Card Name                        |Alter Cost|Effect                                                                                       |
 |:-------------------------------:|:--------:|:-------------------------------------------------------------------------------------------:|
 |Sawed off shotgun                |          |when equiped creature attacks, it's owner rolls a 6 sided die,                               |
 |                                 |          |the equiped creatures attack is the result of that roll till end of turn.                    |
+|(conductive Machete)             |4         |_**Needs Adjustment**                                                                        |
 
-**Trap cards**: Gives equiped creature buffs against certian creature types
+**Trap cards**:
 |Card Name                        |Alter Cost|Effect                                                                                       |
 |:-------------------------------:|:--------:|:-------------------------------------------------------------------------------------------:|
 |(Bear Trap)                      |1         |_                                                                                            |
+|Spider Web                       |          |                                                                                             |
 
 **MISC**
 
@@ -32,5 +34,6 @@ Key:
 |(Boarded Window)                 |3         |_                                                                                            |
 |(Manacles of Decay)              |2         |_                                                                                            |
 |(Glint Hawk Idol)                |2         |_                                                                                            |
+
 
 

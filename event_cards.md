@@ -32,9 +32,11 @@ Key:
 |(Night)                          |1         |_                                                                                            |
 |(Day)                            |3         |_                                                                                            |
 |(Consume Strength)               |3         |_                                                                                            |
-|(Burnout)                        |2         |_ **Needs adjustmet**                                                                                           |
-|(Ambush)                         |4         |_ **Needs adjustmet**                                                                                           |
-|(Strength at Night)              |4         |_ **Needs adjustmet**                                                                                           |
+|(Burnout)                        |2         |_ **Needs adjustmet**                                                                        |
+|(Ambush)                         |4         |_ **Needs adjustmet**                                                                        |
+|(Strength at Night)              |4         |_ **Needs adjustmet**                                                                        |
+|(Executioner's Swing)            |2         |_                                                                                            |
+|(Gravepurge)                     |3         |_                                                                                            |
 
 
 
