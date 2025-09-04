@@ -34,6 +34,8 @@ Key:
 |(Boarded Window)                 |3         |_                                                                                            |
 |(Manacles of Decay)              |2         |_                                                                                            |
 |(Glint Hawk Idol)                |2         |_                                                                                            |
+|Circle of Salt                   |          |Protect alter cards from any curse                                                           |
+|Necronimicon                     |          |curses cost less alter cards to play                                                         |
 
 
 

@@ -41,7 +41,7 @@ for new magic players or a nice change of pace for veterans.
 ## Fighter (creature) types:
 * Haunts
 * Monsters
-* Man (Murderers)
+* Murderers (Man)
 
 [Fighter Cards](./fighter_cards.md)
 

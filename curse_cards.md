@@ -20,6 +20,8 @@ Key:
 |(Claustrophobia)                 |3         |_                                                                                            |
 |(Sensory Deprivation)            |1         |_                                                                                            |
 |(Corrupt)                        |1         |_**Equal to the number of alter cards you control**                                          |
+|Posesion                         |          |                                                                                             |
+|Alter Ego                        |          |Take control of another players lands until end of turn or round                             |
 
 **Revive Creatures**
 
@@ -37,5 +39,9 @@ Key:
 |:-------------------------------:|:--------:|:-------------------------------------------------------------------------------------------:|
 |(Eaten Alive)                    |1         |_                                                                                            |
 |(Pick the Brain)                 |3         |_                                                                                            |
+|Burn an Effigy                   |          |Target player must exile 2 alter cards                                                       |
+|(Duress)                         |1         |_                                                                                            |
+|(Exocise)                        |2         |_                                                                                            |
+|(Rest in Peace)                  |2         |_                                                                                            |
 
 
